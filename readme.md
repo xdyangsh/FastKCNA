@@ -13,7 +13,7 @@ cmake g++ OpenMP Boost
 ### Compile
 
 ```
-cd FastKCNA/
+cd FastKCNA/src
 cmake .
 make
 ```
